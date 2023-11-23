@@ -27,3 +27,8 @@ Et pour vos yeux ébahis, voilà les oeuvres originales, les masterpieces de nos
 - ![Picasso de Guillaume](https://github.com/ShonaNortes/catstagram/blob/main/sketching_page_details_guillaume.jpg)
 - ![Picasso de Shona 1](https://github.com/ShonaNortes/catstagram/blob/main/sketching_shona_01.jpg)
 - ![Picasso de Shona 2](https://github.com/ShonaNortes/catstagram/blob/main/sketching_shona_02.jpg)
+- ![Picasso de Sarah 1](https://github.com/ShonaNortes/catstagram/blob/main/avis_client_boutique_sarah_craze.jpg)
+- ![Picasso de Sarah 2](https://github.com/ShonaNortes/catstagram/blob/main/contact_sarah_craze.jpg)
+- ![Picasso de Sarah 3](https://github.com/ShonaNortes/catstagram/blob/main/login_sarah_craze.jpg)
+- ![Picasso de Sarah 4](https://github.com/ShonaNortes/catstagram/blob/main/mot_de_passe_sarah_craze.jpg)
+- ![Picasso de Sarah 5](https://github.com/ShonaNortes/catstagram/blob/main/register_sarah_craze.jpg)
